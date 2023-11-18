@@ -1,1 +1,2 @@
-export const product = {}
+export const product = {
+ }
